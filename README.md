@@ -1,4 +1,4 @@
-## README for Project
+## README for Group 22 CS4211 project
 Run Rank Model first. Streak Model and Combined Model use the files generated from Rank Model. 
 We have copies of the files needed in there already, so you can run Streak and Combined first if you wish,
 but to understand where auxiliary files like 'MatchedRecords.csv' and 'helper.csv' come from, run Rank Model.
